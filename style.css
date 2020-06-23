@@ -30,7 +30,7 @@ h1 {
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Roboto Mono", sans-serif;
-  color: #85865f;
+  color: white;
   text-shadow:3px 3px black;
   text-align: center;
 }
@@ -38,9 +38,10 @@ h1 {
 /*TODO: Change the font-family property to your linked font*/
 h2 {
   letter-spacing: 3px;
+  line-height:1.8;
   font-size: 25px;
   font-family: "Roboto Mono", sans-serif;
-  color: black;
+  color: white;
   text-align: center;
   line-height: 1.3em;
 }
@@ -124,16 +125,17 @@ li.nav a:hover {
 
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
-}
+
 
 /* TODO: Review the CSS properties to the flex item for the heading (the left box) */
 .heading-home {
   padding: 2%;
-  color: green;
+  color: #85865f;
   font-size: 50px;
   letter-spacing: 10px;
   line-height: 60px;
   text-align: center;
+  }
 
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
@@ -145,7 +147,7 @@ li.nav a:hover {
   border:12px solid white;
   padding: 4%;
   margin: 3%;
-  color: #0D38D3; /* Add the color of your font */
+  color: white; /* Add the color of your font */
   font-size: 20px; /* Add your font size*/
   letter-spacing: 2px; /* Adds space between letters */
   line-height: 1.4em; /* Adds space between lines */
@@ -190,7 +192,7 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
-  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fforest2%20(2).jpg?v=1592953016749");
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fstudio-dekorasyon-vngzm4P2BTs-unsplash.jpg?v=1592938347205");
 }
 
 /* TODO: Replace the current image URL with your own */
