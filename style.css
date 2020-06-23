@@ -85,7 +85,7 @@ li.nav a {
   color: #4DCB56;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: underline ;
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -166,7 +166,7 @@ li.nav a:hover {
   background-color: #2bba4c;
   border:12px solid white;
   padding: 20px 45px;
-  margin: 35px;
+  margin: 45px;
   text-align: center;
 }
 
@@ -213,6 +213,11 @@ li.nav a:hover {
 /******************************************************/
 
 /* TODO: Add a breakpoint if the screen is 700px or less */
-
+@media screen and (max-width:700px) {
+  .flex-container{
+    flex-wrap:wrap;
+    top:20%
+  }
+}
 
 /* TODO: Add additional breakpoints based on your website's design
