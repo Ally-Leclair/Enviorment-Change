@@ -21,7 +21,7 @@ html {
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
-  background-color:#0F3B5F ; /* Change the background color */
+  background-color:#8fa6ac /*blue*/; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -64,7 +64,7 @@ ul.nav-bar {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #0F3B5F;
+  background-color: #8fa6ac /*blue*/;
   border-style: solid;
   border-color: #4DCB56;
 }
@@ -82,7 +82,7 @@ li.nav {
 li.nav a {
   /* Styling for the <a> elements in <li class="nav"> */
   display: block;
-  color: #4DCB56;
+  color: #;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -111,7 +111,7 @@ li.nav a:hover {
   align-items: center; /* Align the flex items to the center */
 
   /* Design properties */
-  background-color: #0F3B5F;
+  background-color: #8fa6ac /*blue*/;
   padding: 5px;
 
 
