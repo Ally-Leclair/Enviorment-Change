@@ -30,7 +30,8 @@ h1 {
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Roboto Mono", sans-serif;
-  color: #2bba4c;
+  color: #85865f;
+  text-shadow:2px 2px black;
   text-align: center;
 }
 
@@ -66,7 +67,7 @@ ul.nav-bar {
   overflow: hidden;
   background-color: #8fa6ac /*blue*/;
   border-style: solid;
-  border-color: #4DCB56;
+  border-color: #85865f;
 }
 
 /* TODO (optional): Change the font size*/
@@ -82,7 +83,7 @@ li.nav {
 li.nav a {
   /* Styling for the <a> elements in <li class="nav"> */
   display: block;
-  color: #;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -140,7 +141,7 @@ li.nav a:hover {
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
 .intro-text {
-  background-color: #2bba4c; /* Add your own background color */
+  background-color: #85865f; /* Add your own background color */
   border:12px solid white;
   padding: 4%;
   margin: 3%;
