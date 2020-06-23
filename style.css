@@ -39,7 +39,7 @@ h2 {
   letter-spacing: 3px;
   font-size: 25px;
   font-family: "Roboto Mono", sans-serif;
-  color: #0F3B5F;
+  color: black;
   text-align: center;
   line-height: 1.3em;
 }
@@ -161,7 +161,8 @@ li.nav a:hover {
 /* TODO (optional): Change the background color and/or text alignment */
 
 .text-section {
-  background-color: #2bba4c;
+  background-color: #4DCB56;
+  border:15px solid red;
   padding: 20px 45px;
   margin: 35px;
   text-align: center;
@@ -176,7 +177,7 @@ li.nav a:hover {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #43d6b9ff;
+  background-color: #4DCB56;
   background-size: cover;
   min-height: 100%; /* This adjusts the height of the image */
 
