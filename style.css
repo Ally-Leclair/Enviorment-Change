@@ -85,7 +85,7 @@ li.nav a {
   color: #4DCB56;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: underline ;
+  text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -94,7 +94,7 @@ li.nav a {
 
 li.nav a:hover {
   /* Styling for the <a> elements when the mouse is hovering in <li class="nav"> */
-  background-color: #0D38D3;
+  background-color: white;
   color: #43d6b9ff;
 }
 
