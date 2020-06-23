@@ -27,6 +27,7 @@ html {
 
 h1 {
   letter-spacing: 5px;
+  line-height:1.3;
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Roboto Mono", sans-serif;
@@ -38,7 +39,6 @@ h1 {
 /*TODO: Change the font-family property to your linked font*/
 h2 {
   letter-spacing: 3px;
-  line-height:1.8;
   font-size: 25px;
   font-family: "Roboto Mono", sans-serif;
   color: white;
@@ -67,8 +67,7 @@ ul.nav-bar {
   padding: 0;
   overflow: hidden;
   background-color: #8fa6ac /*blue*/;
-  border-style: solid;
-  border-color: #85865f;
+  border: 12px solid #85865f;
 }
 
 /* TODO (optional): Change the font size*/
@@ -96,8 +95,8 @@ li.nav a {
 
 li.nav a:hover {
   /* Styling for the <a> elements when the mouse is hovering in <li class="nav"> */
-  background-color: white;
-  color: #43d6b9ff;
+  background-color: #85865f;
+  color: #4f583d;
 }
 
 /************************************************/
@@ -130,7 +129,7 @@ li.nav a:hover {
 /* TODO: Review the CSS properties to the flex item for the heading (the left box) */
 .heading-home {
   padding: 2%;
-  color: #85865f;
+  color:#85865f;
   font-size: 50px;
   letter-spacing: 10px;
   line-height: 60px;
@@ -166,7 +165,7 @@ li.nav a:hover {
 /* TODO (optional): Change the background color and/or text alignment */
 
 .text-section {
-  background-color: #2bba4c;
+  background-color: #85865f;
   border:12px solid white;
   padding: 20px 45px;
   margin: 45px;
@@ -182,7 +181,7 @@ li.nav a:hover {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #4DCB56;
+  background-color: white;
   background-size: cover;
   min-height: 100%; /* This adjusts the height of the image */
 
