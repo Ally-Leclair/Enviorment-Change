@@ -1,9 +1,9 @@
 .flexboxAboutus{
   padding: 30px;
-  background-color: white;
+  background-color: #ffedb3;
   margin: 10px;
   box-sizing: border-box;
-  border: 12px;
+  border: 10px solid #85865f;
 }
 
 p{
