@@ -21,7 +21,7 @@ html {
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
-  background-color: #0D38D3; /* Change the background color */
+  background-color:#0F3B5F ; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -141,6 +141,7 @@ li.nav a:hover {
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
 .intro-text {
   background-color: #2bba4c; /* Add your own background color */
+  border:12px solid white;
   padding: 4%;
   margin: 3%;
   color: #0D38D3; /* Add the color of your font */
@@ -162,8 +163,8 @@ li.nav a:hover {
 /* TODO (optional): Change the background color and/or text alignment */
 
 .text-section {
-  background-color: #4DCB56;
-  border:15px solid red;
+  background-color: #2bba4c;
+  border:12px solid white;
   padding: 20px 45px;
   margin: 35px;
   text-align: center;
