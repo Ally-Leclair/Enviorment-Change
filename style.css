@@ -111,7 +111,7 @@ li.nav a:hover {
   align-items: center; /* Align the flex items to the center */
 
   /* Design properties */
-  background-color: #0D38D3;
+  background-color: #212529;
   padding: 5px;
 
   /* Positioning properties */
@@ -181,7 +181,7 @@ li.nav a:hover {
   min-height: 100%; /* This adjusts the height of the image */
 
   /* TODO: Add the property to create the parallax scrolling effect here */
-  
+  background-attachment: fixed;
 }
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
