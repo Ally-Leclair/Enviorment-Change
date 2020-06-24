@@ -216,7 +216,12 @@ li.nav a:hover {
 
 /* TODO: Add more background images by repeating the process above */
 .image-three {
-  background-image: url("")
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fenvironment_GettyImages-501231894.jpg?v=1593033318694")
+}
+
+/*Image 4*/
+.image-four {
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fenvironment_GettyImages-501231894.jpg?v=1593033318694")
 }
 /*-----------IMAGE ATTRIBUTIONS (if required)-----------*/
 .attributions {
