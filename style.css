@@ -183,7 +183,10 @@ li.nav a:hover {
   background-repeat: no-repeat;
   background-color: white;
   background-size: cover;
-  min-height: 100%; /* This adjusts the height of the image */
+  min-height: 100%;
+
+  
+  /* This adjusts the height of the image */
 
   /* TODO: Add the property to create the parallax scrolling effect here */
   background-attachment: fixed;
@@ -202,7 +205,7 @@ li.nav a:hover {
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 .image-two {
-  background-image: url("")
+  background-image: url("https://cdn.glitch.com/b71")
 }
 }
 /* TODO: Add more background images by repeating the process above */
