@@ -177,25 +177,21 @@ li.nav a:hover {
 /* TODO: Add the CSS selector for each image to the collective image rule set */
 
 .main-message,
-.image-one {
+.image-one,
+.image-two
+  {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: white;
   background-size: cover;
   min-height: 100%;
-
-  
-  /* This adjusts the height of the image */
-
-  /* TODO: Add the property to create the parallax scrolling effect here */
+/* TODO: Add the property to create the parallax scrolling effect here */
   background-attachment: fixed;
 }
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
-
-  background-image: url("https://newsroom.unsw.edu.au/sites/default/files/thumbnails/image/climate_change_1.png") ;
+ background-image: url("https://newsroom.unsw.edu.au/sites/default/files/thumbnails/image/climate_change_1.png") ;
 }
 
 /* TODO: Replace the current image URL with your own */
@@ -205,9 +201,9 @@ li.nav a:hover {
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 .image-two {
-  background-image: url("https://cdn.glitch.com/b71")
+  background-image: url("")
 }
-}
+
 /* TODO: Add more background images by repeating the process above */
 
 /*-----------IMAGE ATTRIBUTIONS (if required)-----------*/
