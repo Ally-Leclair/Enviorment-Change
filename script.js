@@ -2,6 +2,8 @@
 /********* ADD CHECKLIST FUNCTIONALITY **********/
 /************************************************/
 
+
+
 /* TODO: Add a variable to store the "my-list" element */
 
 
@@ -10,4 +12,8 @@
 
 /* TODO: Declare the function checkOffList and add actions inside the { } */
 
+/*Go to top*/
+
+
+  
 
