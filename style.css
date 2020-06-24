@@ -201,7 +201,9 @@ li.nav a:hover {
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
-
+.image-two {
+  background-image: url("")
+}
 }
 /* TODO: Add more background images by repeating the process above */
 
