@@ -187,7 +187,8 @@ li.nav a:hover {
 
 .main-message,
 .image-one,
-.image-two
+.image-two,
+.image-three
   {
   position: relative;
   background-position: center;
@@ -214,7 +215,9 @@ li.nav a:hover {
 }
 
 /* TODO: Add more background images by repeating the process above */
-
+.image-three {
+  background-image: url("")
+}
 /*-----------IMAGE ATTRIBUTIONS (if required)-----------*/
 .attributions {
   font-size: 12px;
