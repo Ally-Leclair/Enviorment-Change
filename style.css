@@ -218,7 +218,15 @@ li.nav a:hover {
 @media screen and (max-width:700px) {
   .flex-container{
     flex-wrap:wrap;
-    top:20%}
+    top:20%;
+  
+  }
+  
+  .heading-home{
+    flex-wrap:wrap;
+   top:20%;
+   margin-top:
+  }
 }
 
 /* TODO: Add additional breakpoints based on your website's design
