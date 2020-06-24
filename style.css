@@ -191,7 +191,7 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
-  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fforest2%20(2).jpg?v=1592953016749");
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fforest2%20(3).jpg?v=1592957223574");
 }
 
 /* TODO: Replace the current image URL with your own */
@@ -218,8 +218,7 @@ li.nav a:hover {
 @media screen and (max-width:700px) {
   .flex-container{
     flex-wrap:wrap;
-    top:20%
-  }
+    top:20%}
 }
 
 /* TODO: Add additional breakpoints based on your website's design
