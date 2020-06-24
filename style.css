@@ -83,7 +83,7 @@ li.nav {
 li.nav a {
   /* Styling for the <a> elements in <li class="nav"> */
   display: block;
-  color: white;
+  color: #fffff0;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -143,10 +143,10 @@ li.nav a:hover {
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
 .intro-text {
   background-color: #85865f; /* Add your own background color */
-  border:12px solid white;
+  border:10px solid #fffff0;
   padding: 4%;
   margin: 3%;
-  color: white; /* Add the color of your font */
+  color: #fffff0; /* Add the color of your font */
   font-size: 20px; /* Add your font size*/
   letter-spacing: 2px; /* Adds space between letters */
   line-height: 1.4em; /* Adds space between lines */
@@ -166,7 +166,7 @@ li.nav a:hover {
 
 .text-section {
   background-color: #85865f;
-  border:12px solid white;
+  border:10px solid white;
   padding: 20px 45px;
   margin: 45px;
   text-align: center;
@@ -191,7 +191,7 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
-  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fstudio-dekorasyon-vngzm4P2BTs-unsplash.jpg?v=1592938347205");
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fforest2%20(2).jpg?v=1592953016749");
 }
 
 /* TODO: Replace the current image URL with your own */
