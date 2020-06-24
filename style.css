@@ -202,6 +202,7 @@ li.nav a:hover {
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 
+}
 /* TODO: Add more background images by repeating the process above */
 
 /*-----------IMAGE ATTRIBUTIONS (if required)-----------*/
@@ -220,12 +221,10 @@ li.nav a:hover {
   .flex-container{
     flex-wrap:wrap;
     top:20%;
-  
   }
-  
-  .heading-home{
+  .text-section{
     flex-wrap:wrap;
-   top:20%;
+    top:20%;
   }
 }
 
