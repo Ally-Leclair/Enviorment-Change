@@ -7,31 +7,27 @@ body{
   background-color: none;
 }
 
-/* Navbar container */
-.dropdowns {
-  overflow: hidden;
-  background-color: #333;
-  font-family: Arial;
-}
 
-/* Links inside the navbar */
-.dropdowns a {
+
+
+/* stuff inside each dropdown */
+.dropdowns {
   float: left;
   font-size: 16px;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 /* The dropdown container */
-.dropdown {
+.dropdowns {
   float: left;
   overflow: hidden;
 }
 
 /* Dropdown button */
-.dropdown .dropbtn {
+.dropdowns .dropbtn {
   font-size: 16px;
   border: none;
   outline: none;
@@ -42,10 +38,7 @@ body{
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
-/* Add a red background color to navbar links on hover */
-.navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
-}
+
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
@@ -58,7 +51,7 @@ body{
 }
 
 /* Links inside the dropdown */
-.dropdown-content a {
+.dropdowns  {
   float: none;
   color: black;
   padding: 12px 16px;
