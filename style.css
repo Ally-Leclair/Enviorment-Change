@@ -39,11 +39,12 @@ h1 {
 /*TODO: Change the font-family property to your linked font*/
 h2 {
   letter-spacing: 3px;
-  font-size: 25px;
+  font-size: 27px;
   font-family: "Roboto Mono", sans-serif;
   color: white;
   text-align: center;
   line-height: 1.3em;
+  text-shadow: 2px 2px black;
 }
 
 /*TODO: Change the color of a link when a person hovers over it*/
@@ -170,6 +171,13 @@ li.nav a:hover {
   padding: 20px 45px;
   margin: 45px;
   text-align: center;
+}
+
+.textinfo{
+  text-align: center;
+  font-family: "Roboto Mono", sans-serif;
+  color: white;
+  letter-spacing:1.5px;
 }
 
 /*---------IMAGE STYLING + PARALLAX PROPERTY---------*/
