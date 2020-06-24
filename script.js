@@ -13,7 +13,12 @@
 /* TODO: Declare the function checkOffList and add actions inside the { } */
 
 /*Go to top*/
+var backtotop = document.getElementById("backtotop");
+  backtotop.addEventListener("click", topfunction);
 
+  function topfunction() {
+  location.reload();
+  }
 
   
 

@@ -190,7 +190,8 @@ li.nav a:hover {
 .image-two,
 .image-three,
 .image-four,
-.image-five
+.image-five,
+.image-six
   {
   position: relative;
   background-position: center;
@@ -233,7 +234,7 @@ li.nav a:hover {
 
 /*Image 6*/
 .image-six {
-  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fclimate_rally.jpg?v=1593034410878")
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fearththing.jpg?v=1593035570713")
 }
 /*-----------IMAGE ATTRIBUTIONS (if required)-----------*/
 .attributions {

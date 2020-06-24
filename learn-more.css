@@ -1,7 +1,8 @@
 body{
-  background-color: pink;
+  background-color: #ff9999;
 }
 .dropbtn{
+  font: black;
   font-size: 20px;
   background-color: none;
 }
