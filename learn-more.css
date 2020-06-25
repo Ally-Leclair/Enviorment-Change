@@ -16,7 +16,7 @@ body{
   font-size: 16px;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 10px;
   text-decoration: none;
 }
 
@@ -66,10 +66,8 @@ body{
 }
 
 /* Show the dropdown menu on hover */
-.dropdowns:hover .dropdown-content{
-  display: block;
-}
+.dropdowns:hover 
+  .show{display: block;}
 
 
 
-}

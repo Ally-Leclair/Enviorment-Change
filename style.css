@@ -68,7 +68,7 @@ ul.nav-bar {
   padding: 0;
   overflow: hidden;
   background-color: #8fa6ac /*blue*/;
-  border: 10px solid #85865f;
+  border: 10px solid black;
 }
 
 /* TODO (optional): Change the font size*/
@@ -112,7 +112,7 @@ li.nav a:hover {
   flex-wrap: nowrap; /* Don’t wrap the flex items */
   justify-content: center; /* Justify the flex items to the center */
   align-items: center; /* Align the flex items to the center */
-  border:10px solid #85865f;
+  border:10px solid black;
   /* Design properties */
   background-color: #8fa6ac /*blue*/;
   padding: 5px;
@@ -204,17 +204,17 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
- background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fearth-desert-dry-hot-60013.jpg?v=1593057460757") ;
+ background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fcrowd-of-people-marching-on-a-rally-2975498.jpg?v=1593056322358") ;
 }
 
 /* TODO: Replace the current image URL with your own */
 .image-one {
-  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fair-air-pollution-climate-change-dawn-221012.jpg?v=1593057203652");
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fkisscc0-atmosphere-of-earth-climate-change-sea-surface-tem-nature-5afd4ca3393e14.8564829815265496672345.jpg?v=1593058090104");
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 .image-two {
-  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fcrowd-of-people-marching-on-a-rally-2975498.jpg?v=1593056322358")
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Farchitecture-auto-automobiles-bridge-210182.jpg?v=1593058470133")
 }
 
 /* TODO: Add more background images by repeating the process above */
