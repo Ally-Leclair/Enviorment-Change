@@ -10,9 +10,15 @@ background-color: #8fa6ac;
   padding:50px;
   }
 
+.buttontext{
+  text-shadow:2px 2px black;
+  margin-bottom:0px;
+}
+
 #CO2E{
   width:200px;
   height:200px;
+  margin-top:0px;
 }
 
 #CO2E:hover{
@@ -28,8 +34,23 @@ background-color: #8fa6ac;
   opacity:50%;
 }
 
+#Electronic{
+  width:200px;
+  height:200px;
+}
 
+#Electronic:hover{
+  opacity:50%;
+}
 
+#Forest{
+  width:200px;
+  height:200px;
+}
+
+#Forest:hover{
+  opacity:50%;
+}
 
 
 

@@ -238,6 +238,7 @@ like a checkmark!
   display:flex;
   justify-content: flex-start;
   align-self: flex-end;
+  margin: 5px;
   
   
 }
