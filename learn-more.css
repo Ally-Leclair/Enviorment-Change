@@ -8,6 +8,7 @@ background-color: #8fa6ac;
   justify-content:space-around;
   background-color:#85865f;
   padding:50px;
+  border:10px solid white;
   }
 
 .buttontext{
@@ -18,7 +19,8 @@ background-color: #8fa6ac;
 #CO2E{
   width:200px;
   height:200px;
-  margin-top:0px;
+  padding:5px;
+  border:10px solid white;
 }
 
 #CO2E:hover{
@@ -28,6 +30,8 @@ background-color: #8fa6ac;
 #Ocean{
   width:200px;
   height:200px;
+  padding:5px;
+  border:10px solid white;
 }
 
 #Ocean:hover{
@@ -37,6 +41,7 @@ background-color: #8fa6ac;
 #Electronic{
   width:200px;
   height:200px;
+  padding:5px;
 }
 
 #Electronic:hover{
@@ -46,6 +51,7 @@ background-color: #8fa6ac;
 #Forest{
   width:200px;
   height:200px;
+  padding:5px;
 }
 
 #Forest:hover{

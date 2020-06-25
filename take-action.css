@@ -236,9 +236,10 @@ like a checkmark!
 .organizations {
   font: black;
   display:flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-self: flex-end;
-  margin: 5px;
+  font-size:8em;
+  
   
   
 }
