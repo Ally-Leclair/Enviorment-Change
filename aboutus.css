@@ -17,7 +17,7 @@ p{
   width: 400px;
   padding: 55px;
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
  
 }
 
@@ -44,4 +44,8 @@ p{
   display: flex;
   flex-direction:row-reverse;
   justify-content: space-around;
+}
+
+ul {
+  list-style-type: none; 
 }
