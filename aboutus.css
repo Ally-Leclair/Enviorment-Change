@@ -48,5 +48,7 @@ p{
 
 .auImages {
   list-style-type: none; 
+  display: flex;
+  flex-direction: row;
   
 }
