@@ -10,9 +10,16 @@ var fullItemList;
 /* TODO: Create the event listener that listens for a mouse click and runs the checkOffList function */
 var fullItemList=document.getElementById("my-list");
 
-fullItemList.addEventListener("click");
+if (fullItemList){
+  fullItemList.addEventListener("click", checkOffItem);
+}
+
 
 /* TODO: Declare the function checkOffList and add actions inside the { } */
+
+function checkOffItem(clicked){
+  
+}
 
 /*Go to top*/
 var backtotop = document.getElementById("backtotop");
