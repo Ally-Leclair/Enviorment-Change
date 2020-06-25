@@ -263,17 +263,17 @@ li.nav a:hover {
 
 /*Back to top button*/
 #back2Top {
-  cursor: pointer;
+ float:right;
+cursor: pointer;
     -moz-transform: rotate(270deg);
     -webkit-transform: rotate(270deg);
     -o-transform: rotate(270deg);
     -ms-transform: rotate(270deg);
     transform: rotate(270deg);
-   position: fixed;
+   position: ;
     bottom: 50px;
    background-color: #8fa6ac;
     color: #fffff0;
-  border:3px solid #85865f;
   text-shadow: 2px 2px black;
     font-size: 30px;
     text-decoration: none;
