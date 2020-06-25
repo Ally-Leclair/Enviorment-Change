@@ -20,24 +20,26 @@ p{
 }
 
 .alyssa {
-  padding: 20px .5px;
+  padding: 20px 20px;
   background-color: #fffff0;
   margin: 50px 15px;
   box-sizing: border-box;
   border: 5px solid #85865f;
-  justify-content: flex-end;
+  
 
 }
 
 .sneha{
-  padding: 20px .5px;
+  padding: 20px 20px;
   background-color: #fffff0;
   margin: 50px 15px;
   box-sizing: border-box;
   border: 5px solid #85865f;
-  justify-content: flex-end;
+  
 }
 
 .meetFounders{
+  display: flex;
   flex-direction:row-reverse;
+  justify-content: space-around;
 }
