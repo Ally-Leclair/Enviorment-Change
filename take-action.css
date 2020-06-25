@@ -245,4 +245,10 @@ like a checkmark!
 
 h3{
   font-size: 14px;
+  display:flex;
+  justify-content:center;
+}
+
+ul{
+  list-style-type: none;
 }
