@@ -249,7 +249,7 @@ li.nav a:hover {
   margin-right: 10px;
 }
 
-#attributionslink {
+.attributionslink {
   color: #4f583d;
   text-decoration:underline;
 }
