@@ -68,7 +68,7 @@ ul.nav-bar {
   padding: 0;
   overflow: hidden;
   background-color: #8fa6ac /*blue*/;
-  border: 10px solid black;
+  border: 10px solid #fffff0;/*maybe change to black----------------------------------------*/
 }
 
 /* TODO (optional): Change the font size*/
@@ -112,7 +112,7 @@ li.nav a:hover {
   flex-wrap: nowrap; /* Don’t wrap the flex items */
   justify-content: center; /* Justify the flex items to the center */
   align-items: center; /* Align the flex items to the center */
-  border:10px solid black;
+  border:10px solid #fffff0;
   /* Design properties */
   background-color: #8fa6ac /*blue*/;
   padding: 5px;
