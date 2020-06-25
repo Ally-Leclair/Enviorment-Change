@@ -240,6 +240,7 @@ like a checkmark!
   align-items: flex-end;
   font-size:1.5em;
   margin: 600px;
+  flex-wrap:nowrap;
   
   
   
