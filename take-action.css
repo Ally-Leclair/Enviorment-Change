@@ -238,7 +238,10 @@ like a checkmark!
   display:flex;
   justify-content: center;
   align-self: flex-end;
-  font-size:8em;
+  margin: 180px;
+  font-size:3em;
+  align-content: flex-end;
+  line-height: 100px;
   
   
   
