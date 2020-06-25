@@ -236,11 +236,7 @@ like a checkmark!
 .organizations p{
   font: black;
   display:flex;
-  justify-content: center;
-  align-items: flex-end;
-  font-size:1.5em;
-  margin: 600px;
-  flex-wrap:nowrap;
+  margin
   
   
   
