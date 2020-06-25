@@ -235,6 +235,9 @@ like a checkmark!
 
 .organizations {
   font: black;
-  display:flex
+  display:flex;
+  justify-content: flex-start;
+  align-self: flex-end;
+  
   
 }
