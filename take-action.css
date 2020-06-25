@@ -235,4 +235,6 @@ like a checkmark!
 
 .organizations {
   font: black;
+  display:flex
+  
 }
