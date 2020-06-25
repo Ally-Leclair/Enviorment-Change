@@ -1,4 +1,9 @@
-.flexboxAboutus{
+body{
+ 
+  
+  
+  
+  .flexboxAboutus{
   padding: 30px;
   background-color: 	#fffff0;
   margin: 10px;
@@ -10,3 +15,5 @@ p{
   color: black;
 }
 /*planting trees could be our picture here*/
+  
+}

@@ -204,12 +204,12 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
- background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fair-air-pollution-climate-change-dawn-221012.jpg?v=1593057203652") ;
+ background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fearth-desert-dry-hot-60013.jpg?v=1593057460757") ;
 }
 
 /* TODO: Replace the current image URL with your own */
 .image-one {
-  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fwhite-and-green-text-lot-2053892.jpg?v=1593057142402");
+  background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fair-air-pollution-climate-change-dawn-221012.jpg?v=1593057203652");
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
