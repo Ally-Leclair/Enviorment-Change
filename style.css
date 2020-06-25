@@ -185,10 +185,9 @@ li.nav a:hover {
 }
 
 #learnlink{
-  color:#fffff0;
-  text-decorations:underline;
+  color: #4f583d;
+  text-decoration:underline;
 }
-
 /*---------IMAGE STYLING + PARALLAX PROPERTY---------*/
 
 /* TODO: Add the CSS selector for each image to the collective image rule set */
@@ -251,6 +250,11 @@ li.nav a:hover {
   margin-right: 10px;
 }
 
+#attributionslink {
+  color: #4f583d;
+  text-decoration:underline;
+}
+
 /******************************************************/
 /***** CHANGE INDEX.HTML CSS BASED ON SCREEN SIZE *****/
 /******************************************************/
@@ -285,7 +289,6 @@ cursor: pointer;
   text-shadow: 2px 2px black;
     font-size: 30px;
     text-decoration: none;
-  
  
 }
 
