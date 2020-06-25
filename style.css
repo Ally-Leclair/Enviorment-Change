@@ -269,11 +269,12 @@ li.nav a:hover {
     -o-transform: rotate(270deg);
     -ms-transform: rotate(270deg);
     transform: rotate(270deg);
-   position:fixed;
+   position: fixed;
     bottom: 50px;
    background-color: #DDD;
     color: #555;
-    text-align: center;
+    text-align: left;
     font-size: 30px;
     text-decoration: none;
+ 
 }
