@@ -21,7 +21,7 @@ html {
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: #fffff0; /* Change the font color*/
-  background-color:#8fa6ac /*blue*/; /* Change the background color */
+  background-color:black/*blue*/; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -154,6 +154,7 @@ li.nav a:hover {
   line-height: 1.4em; /* Adds space between lines */
   text-align: center;
 
+
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
 }
@@ -172,7 +173,9 @@ li.nav a:hover {
   padding: 15px 45px;
   margin: 40px;
   text-align: center;
+  outline:30px solid #8fa6ac ;
 }
+
 
 .textinfo{
   text-align: center;
