@@ -9,7 +9,10 @@
   width: 100%;
   position: absolute;
   text-transform: uppercase;
-  background-color: blue;
+  background-color: #85865f;
+  border-left:10px solid #fffff0;
+  border-right:10px solid #fffff0;
+  border-bottom:10px solid #fffff0;
 }
 
 
