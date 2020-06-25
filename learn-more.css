@@ -1,10 +1,74 @@
 body{
-
-  
-   
-  
-  background-color: #ff9999;
+background-color: #8fa6ac;
 }
+
+
+.buttons{
+  display:flex;
+  justify-content:space-around;
+  background-color:#85865f;
+  padding:50px;
+  }
+
+#CO2E{
+  width:200px;
+  height:200px;
+}
+
+#CO2E:hover{
+  opacity:50%;
+}
+
+#Ocean{
+  width:200px;
+  height:200px;
+}
+
+#Ocean:hover{
+  opacity:50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .dropbtn{
   font: black;
   font-size: 20px;
@@ -118,16 +182,3 @@ body{
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
 
-.buttons{
-  display:flex;
-  justify-content:space-between;
-  }
-
-#CO2E{
-  width:200px;
-  height:200px;
-}
-
-#CO2E:hover{
-  opacity:50%;
-}
