@@ -60,7 +60,7 @@ background-color: #8fa6ac;
 
 .link{
   color: #4f583d;
-  text-decoration:underline;
+  text-shadow:1px 1px black;
 }
 
 #p1{
@@ -115,4 +115,10 @@ background-color:#85865f;
   margin-top:70px;
   margin-bottom:70px;
   border:10px solid #fffff0;
+}
+
+.learnimage{
+  border-radius:50%;
+  border:12px solid #4f583d;
+  text-shadow:2px 2px black;
 }

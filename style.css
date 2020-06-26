@@ -189,7 +189,7 @@ li.nav a:hover {
 
 #learnlink{
   color: #4f583d;
-  text-decoration:underline;
+ text-shadow:1px 1px black;
 }
 /*---------IMAGE STYLING + PARALLAX PROPERTY---------*/
 
@@ -251,11 +251,12 @@ li.nav a:hover {
   font-size: 12px;
   text-align: right;
   margin-right: 10px;
+  color: #fffff0;
 }
 
 .attributionslink {
   color: #4f583d;
-  text-decoration:underline;
+ text-shadow:1px 1px black;
 }
 
 /******************************************************/
