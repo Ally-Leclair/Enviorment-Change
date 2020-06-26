@@ -5,7 +5,7 @@ var CO2=document.getElementById("CO2E")
 
 function CO22(clicked){
 var elmntToView = document.getElementById("p1");
-elmntToView.scrollIntoView(); 
+window.scrollBy(0, 100);
 }
 
 
