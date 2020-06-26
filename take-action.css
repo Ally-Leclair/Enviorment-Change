@@ -65,7 +65,7 @@
   margin: 5%;
   flex-grow: 1;
   background-color: #0d9c90;
-  /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
+ / *border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
 /* Holds all elements related to the action item list; inside the action-list-container */
@@ -236,17 +236,21 @@ like a checkmark!
   font: pink;
 }
 
-.organizations p{
+.organizations {
   font: black;
   display:flex;
   margin
-  
-  
-  
-  
+  font-size:20px;
 }
+ 
+#paragraph{
+  font-size:20px;
+}
+ 
+  
+  
 
-h3{
+h4{
   font-size: 1.3em;
   display:flex;
   justify-content:center;
