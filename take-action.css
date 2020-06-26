@@ -2,20 +2,18 @@
 /************** CSS FOR TAKE-ACTION.HTML **************/
 /******************************************************/
 
-.page-header-action {
-  
+.page-header-action{
+  display:flex;
+  justify-content:space-around;
 }
-
 
 .page-header-action {
   width: 100%;
   position: absolute;
   text-transform: uppercase;
   background-color: #85865f;
-  border-left:10px solid #fffff0;
-  border-right:10px solid #fffff0;
   border-bottom:10px solid #fffff0;
-  display:inline-block;
+overflow:hidden;
 }
 
 
@@ -271,4 +269,5 @@ ul{
   padding: 10px;
   border: 10px;
   font-size: 1.25em;
+  
 }
