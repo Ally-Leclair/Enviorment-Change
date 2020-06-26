@@ -62,7 +62,6 @@ padding:20px;
   list-style-type: none; 
   display: flex;
   justify-content: space-around;
-  border:10px solid 
   
 } 
 
@@ -70,3 +69,4 @@ padding:20px;
   border:15px solid #4f583d;
   border-radius:50%;
 }
+
