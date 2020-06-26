@@ -16,52 +16,29 @@ background-color: #8fa6ac;
   margin-bottom:0px;
 }
 
-#link1{
+#link1,
+#link2{
   color:transparent;
 }
 
 
-#CO2E{
-  width:200px;
-  height:200px;
-  padding:5px;
-  border:10px solid white;
-}
-
-#CO2E:hover{
-  opacity:50%;
-}
-
-#Ocean{
-  width:200px;
-  height:200px;
-  padding:5px;
-  border:10px solid white;
-}
-
-#Ocean:hover{
-  opacity:50%;
-}
-
-#Electronic{
-  width:200px;
-  height:200px;
-  padding:5px;
-}
-
-#Electronic:hover{
-  opacity:50%;
-}
-
+#CO2E,
+#Ocean,
+#Electronic,
 #Forest{
   width:200px;
   height:200px;
   padding:5px;
+  border:10px solid white;
 }
 
-#Forest:hover{
+#CO2E:hover,
+#Ocean:hover,
+#Electronics:hover,
+#Forest:hover,{
   opacity:50%;
 }
+
 
 .link{
   color: #4f583d;

@@ -49,12 +49,17 @@ p{
 .auImages {
   list-style-type: none; 
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
   
 } 
 
 #i1 {
-  border: 50px solid #fffff0;
-  margin: 5px;
+  border: 5px solid #fffff0;
+  padding: 0px;
+ 
+}
+
+#i2 {
+  border: 5px solid #fffff0;
+  padding:0px;
 }
