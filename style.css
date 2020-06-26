@@ -298,3 +298,9 @@ cursor: pointer;
 #back2Top:hover {
   opacity:50%;
 }
+/*back to top */
+.backtotop {
+  display:flex;
+  justify-content: flex-end;
+  font: white;
+}
