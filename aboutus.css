@@ -1,14 +1,15 @@
  
 .flexboxAboutus{
   padding: 30px;
-  background-color: 	#fffff0;
-  margin: 10px;
+  background-color: #85865f;
+  margin: 40px;
   box-sizing: border-box;
-  border: 10px solid #85865f;
+  border: 10px solid #4f583d;
+  outline:10px solid white;
 }
 
 p{
-  color: black;
+  color: white;
 }
 /*planting trees could be our picture here*/
 .page-header-aboutus{
@@ -29,19 +30,19 @@ padding:20px;
 }
 
 .alyssa {
-  padding: 20px 20px;
-  background-color: #fffff0;
-  margin: 50px 15px;
   box-sizing: border-box;
   border: 10px solid #85865f;
-  
+  display: flex;
+  flex-direction:row-reverse;
+  justify-content: space-around;
+  border: 10px solid #4f583d;
+  outline:10px solid white;
+  background-color:#85865f;
+  margin:70px;
 
 }
 
 .sneha{
-  padding: 20px 20px;
-  background-color: #fffff0;
-  margin: 50px 15px;
   box-sizing: border-box;
   border: 10px solid #85865f;
   
@@ -51,6 +52,10 @@ padding:20px;
   display: flex;
   flex-direction:row-reverse;
   justify-content: space-around;
+  border: 10px solid #4f583d;
+  outline:10px solid white;
+  background-color:#85865f;
+  margin:70px;
 }
 
 .auImages {
