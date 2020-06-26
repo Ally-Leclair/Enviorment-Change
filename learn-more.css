@@ -120,5 +120,5 @@ background-color:#85865f;
 .learnimage{
   border-radius:50%;
   border:12px solid #4f583d;
-  text-shadow:2px 2px black;
+ box-shadow:5px 5px 5px black;
 }

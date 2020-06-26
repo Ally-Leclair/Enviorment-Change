@@ -51,8 +51,6 @@ p{
   border: 50px #fffff0;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
-  background-image: white;
-  
+  justify-content: space-around; 
   
 }
