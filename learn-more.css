@@ -9,7 +9,7 @@ background-color: #8fa6ac;
   background-color:#85865f;
   padding:50px;
   border:10px solid white;
-  outline:15px solid #8fa6ac;
+  outline:30px solid #8fa6ac;
   }
 
 .buttontext{
@@ -66,20 +66,7 @@ background-color:#85865f;
   margin-top:0px;
   margin-botton:30px;
 }
-#imageone
-  {
-  position: relative;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 100%;
-/* TODO: Add the property to create the parallax scrolling effect here */
-  background-attachment: fixed;
-}
 
-#imageone {
- background-image: url("https://cdn.glitch.com/b71d1241-771a-47ae-baa7-c18c06b157fa%2Fyoung-tomato-5808.jpg?v=1593147555645") ;
-}
 
 @media screen and (max-width:700px) {
   .flex-container{

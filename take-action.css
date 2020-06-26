@@ -163,8 +163,8 @@ like a checkmark!
 #my-list li.all-done::before {
   content: "";
   position: absolute;
-  border-color: #0D38D3;
-  border-style: solid;
+  border-color: ;
+  border-style: dotted;
   border-width: 0 2px 2px 0;
   top: 5px;
   left: 16px;
