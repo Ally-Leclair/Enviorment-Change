@@ -23,6 +23,9 @@ function checkOffItem(clicked){
   }
 }
 
+/* Once everything is done*/
+
+
 /*Go to top*/
 var backtotop = document.getElementById("backtotop");
   backtotop.addEventListener("click", topfunction);
