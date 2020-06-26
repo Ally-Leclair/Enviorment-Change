@@ -29,10 +29,19 @@ background-color: #8fa6ac;
   border:10px solid white;
 }
 
-#CO2E:hover,
-#Ocean:hover,
-#Electronics:hover,
-#Forest:hover,{
+#CO2E:hover{
+   opacity:50%;
+}
+
+#Ocean:hover{
+   opacity:50%;
+}
+
+#Electronic:hover{
+   opacity:50%;
+}
+
+#Forest:hover{
   opacity:50%;
 }
 
@@ -59,7 +68,6 @@ background-color:#85865f;
 .learnimage{
   border-radius:50%;
   border:12px solid #4f583d;
- box-shadow:5px 5px 5px black;
 }
 
 *{
