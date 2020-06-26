@@ -60,3 +60,43 @@ background-color:#85865f;
   border:12px solid #4f583d;
  box-shadow:5px 5px 5px black;
 }
+
+
+@media screen and (max-width:700px) {
+  .flex-container{
+    flex-wrap:wrap;
+    top:20%;
+  }
+  .text-section{
+    flex-wrap:wrap;
+    top:20%;
+  }
+}
+
+/* TODO: Add additional breakpoints based on your website's design
+
+/*Back to top button*/
+#back2Top {
+ float:right;
+cursor: pointer;
+    -moz-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+   position: ;
+    bottom: 50px;
+   background-color: #8fa6ac;
+    color: #fffff0;
+ 
+}
+
+#back2Top:hover {
+  opacity:50%;
+}
+/*back to top */
+.backtotop {
+  display:flex;
+  justify-content: flex-end;
+ color:transparent;
+}

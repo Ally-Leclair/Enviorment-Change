@@ -303,5 +303,5 @@ cursor: pointer;
 .backtotop {
   display:flex;
   justify-content: flex-end;
-  font: white;
+  color:transparent;
 }
