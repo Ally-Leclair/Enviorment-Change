@@ -62,7 +62,6 @@ padding:20px;
   list-style-type: none; 
   display: flex;
   justify-content: space-around;
-  
 } 
 
 .aboutimg{
@@ -70,3 +69,23 @@ padding:20px;
   border-radius:50%;
 }
 
+#i1{
+  border-radius:50%;
+  border:10px solid #4f583d;
+  width:200px;
+  height:200px;
+}
+
+#id2{
+   border-radius:50%;
+  border:10px solid #4f583d;
+  width:200px;
+  height:200px;
+}
+
+#id3{
+   border-radius:50%;
+  border:10px solid #4f583d;
+  width:200px;
+  height:200px;
+}
