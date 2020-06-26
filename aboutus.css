@@ -11,7 +11,14 @@ p{
   color: black;
 }
 /*planting trees could be our picture here*/
-  
+.page-header-aboutus{
+  background-color:#85865f;
+padding:20px;
+  border-bottom:10px solid #fffff0;
+}
+
+
+
 .flexboxImage img{
   height: 400px;
   width: 400px;
@@ -26,7 +33,7 @@ p{
   background-color: #fffff0;
   margin: 50px 15px;
   box-sizing: border-box;
-  border: 5px solid #85865f;
+  border: 10px solid #85865f;
   
 
 }
@@ -36,7 +43,7 @@ p{
   background-color: #fffff0;
   margin: 50px 15px;
   box-sizing: border-box;
-  border: 5px solid #85865f;
+  border: 10px solid #85865f;
   
 }
 

@@ -14,6 +14,7 @@
   background-color: #85865f;
   border-bottom:10px solid #fffff0;
 overflow:hidden;
+  
 }
 
 
@@ -87,7 +88,7 @@ overflow:hidden;
   color: #85865f;
   letter-spacing: 1px;
   text-shadow:1px 1px black;
-  /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
+    /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
 /* Intructions inside the list container */
