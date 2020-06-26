@@ -241,6 +241,7 @@ like a checkmark!
   font: black;
   font-size:20px;
   text-decorations:none;
+  background-color:#85865f;
  
 }
  
@@ -268,6 +269,17 @@ ul{
 .o {
   padding: 10px;
   border: 10px;
-  font-size: 1.25em;
-  
+  font-size: 15px;
+  color:#fffff0;
+}
+
+.link{
+  color:#4f583d;
+    text-decoration:none;
+  text-shadow:1px 1px black;
+}
+
+.image{
+  display:flex;
+  align-items:flex-end;
 }
